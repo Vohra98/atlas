@@ -33,7 +33,7 @@ export default function FrontPage(props: any): JSX.Element {
           bgImage="/images/headless_hero_background.jpg"
           id={styles.home_hero}>
           <p>
-            Atlas’s Headless WordPress includes this example
+            Atlas’s Headless WordPress  built by Muhammad using the WPengine boilerplate includes this example
             project, the{' '}
             <a href="https://github.com/wpengine/headless-framework#plugin-features">
               headless WordPress plugin
